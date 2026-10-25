@@ -4,7 +4,7 @@ A music player that lives in your Mac's menu bar. You describe a station ("late-
 
 ## What you need
 
-- A Mac on macOS 26 or later.
+- A Mac on macOS 15 (Sequoia) or later.
 - **One music service:**
   - **Spotify Premium**, plus a free Spotify developer app of your own (Sidetrack's Settings walks you through pasting its Client ID; the redirect URI is `http://127.0.0.1:43824/callback`), or
   - an **Apple Music** subscription on the Apple Account signed in to your Mac.
